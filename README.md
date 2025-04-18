@@ -1,6 +1,9 @@
 # 👋 Olá, Eu sou Jaine Cassimiro!
 
 **Bem-vindo ao meu perfil no GitHub!**  
+Este repositório é o reflexo do meu processo de aprender a programar.
+Ele me lembra de quando eu guardava minhas primeiras palavras, meus desenhos e meus recortes num caderno só meu.
+Aqui também tem bagunça, tentativas e muita coisa que só faz sentido pra mim — mas tudo isso mostra exatamente de onde vim e pra onde estou indo.
 Sou uma desenvolvedora apaixonada por tecnologia, aprendizado contínuo e inovação. Dedico-me a criar soluções que impactem positivamente a vida das pessoas.
 
 Aprendizado acelerado: Capacidade de absorver novos conceitos e tecnologias rapidamente.
